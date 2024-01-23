@@ -2,8 +2,6 @@
 LeapMusic是一款漂亮的本地音乐播放器，支持全球38种语言。
 #### `免费无广告` `简洁不臃肿` `流畅体验` `功能强大`
 
-<br>
-
 # 预览图
 ![leapmusic](images/11.jpg)![leapmusic](images/12.jpg)![leapmusic](images/13.jpg)\
 支持`平板设备`，支持`深色/浅色模式`
@@ -11,8 +9,6 @@ LeapMusic是一款漂亮的本地音乐播放器，支持全球38种语言。
 ![leapmusic](images/22.jpg)
 ![leapmusic](images/23.jpg)
 ![leapmusic](images/24.jpg)
-
-<br>
 
 # 下载
 ![leapmusic](images/icon.png)\
