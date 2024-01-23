@@ -1,4 +1,4 @@
-[![English](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/xtdf/LeapMusic/blob/main/README.en.md)
+### `Language` &nbsp; [English](https://github.com/xtdf/LeapMusic/blob/main/README.en.md)
 
 # 简介
 LeapMusic是一款漂亮的本地音乐播放器，支持全球38种语言。
