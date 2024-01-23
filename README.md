@@ -1,8 +1,8 @@
-#简介
+# 简介
 LeapMusic是一款漂亮的本地音乐播放器，支持全球38种语言。
-####`免费无广告` `简洁不臃肿` `流畅体验` `功能强大`
-#预览图
-![leapmusic](images/11.jpg)![leapmusic](images/12.jpg)![leapmusic](images/13.jpg)
+#### `免费无广告` `简洁不臃肿` `流畅体验` `功能强大`
+# 预览图
+![leapmusic](images/11.jpg)![leapmusic](images/12.jpg)![leapmusic](images/13.jpg)\
 支持`平板设备`，支持`深色/浅色模式`
 ![leapmusic](images/21.jpg)
 ![leapmusic](images/22.jpg)
@@ -10,16 +10,16 @@ LeapMusic是一款漂亮的本地音乐播放器，支持全球38种语言。
 ![leapmusic](images/24.jpg)
 
 
-#下载
-![leapmusic](images/icon.png)
-系统版本：Android7.0+
-软件大小：约9MB
+# 下载
+![leapmusic](images/icon.png)\
+系统版本：Android7.0+\
+软件大小：约9MB\
 软件无联网功能，不会上传您的数据。
 
-####[点击这里下载](apks/LeapMusic5002.apk)
+#### [点击这里下载](apks/LeapMusic5002.apk)
 
 
-#软件特点
+# 软件特点
 
 * __全局动画__：启动动画，组件动画，歌词动画，流畅体验
 * __全局主题__：精准提取专辑颜色，全局使用，沉浸体验
@@ -31,9 +31,8 @@ LeapMusic是一款漂亮的本地音乐播放器，支持全球38种语言。
 * __全局模糊菜单背景__：支持全局模糊功能
 
 
-
-#关于软件
-欢迎反馈软件问题/翻译问题等：
+# 关于软件
+欢迎反馈软件问题/翻译问题等：\
 leapmusic@outlook.com
 
 <!-- #####感谢大家的鼓励，感谢你们的陪伴！❤️ -->
