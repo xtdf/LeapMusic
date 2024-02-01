@@ -14,12 +14,12 @@ Network permission for full screen lyrics\
 `android.permission.MANAGE_ INTERNATIONAL_ STORAGE`\
 File management permission, used to manage music files\
 `android.permission.POST_ NOTICES`\
-Notification permissions, used to control music playback in the notification bar\
+Notification permission, used to control music playback in the notification bar\
 `android.permission.READ_ INTERNATIONAL_ STORAGE`\
 Read file permission, used to read music files\
 `android.permission.READ_ PHONE_ START`\
 Phone status permission, used to pause music on incoming or outgoing calls\
 `android.permission.SYSTEM_ ALERT_ WINDOW`\
-floating window permission, used for desktop lyrics\
+Floating window permission, used for desktop lyrics\
 `android.permission.WRITE_ INTERNATIONAL_ STORAGE`\
-Write file permissions for software data backup
+Write file permission，used for software data backup
