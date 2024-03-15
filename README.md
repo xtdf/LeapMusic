@@ -5,8 +5,9 @@ LeapMusic is a beautiful local music player that supports 38 languages worldwide
 #### `Free and Ad-Free` `Sleek and Lightweight` `Smooth Experience` `Powerful Features`
 
 # Preview
-![leapmusic](images/11.jpg)![leapmusic](images/12.jpg)![leapmusic](images/13.jpg)\
-Supports `tablet devices`, and available in `dark/light mode`
+![leapmusic](images/11.jpg)![leapmusic](images/12.jpg)\
+![leapmusic](images/13.jpg)![leapmusic](images/14.jpg)\
+Supports `tablet devices`, and available in `dark/light mode`\
 ![leapmusic](images/21.jpg)
 ![leapmusic](images/22.jpg)
 ![leapmusic](images/23.jpg)
@@ -38,4 +39,4 @@ The app does not have online functionality and will not upload your data.
 Feel free to provide feedback on software or translation issues at:\
 leapmusic@outlook.com
 
-`The software is a learning work for developers and does not comply with development standards, so it is not open source. `
+`The software is a learning work and does not comply with development standards, so it is not open source. `
